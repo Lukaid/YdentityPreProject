@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '15.164.220.96',
+    '52.79.131.63',  # elastic IP
+    'lukaid-sparta.shop',
     '127.0.0.1']
 
 
